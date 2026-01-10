@@ -84,5 +84,32 @@ HR.Infrastructure/     # DbContext, Repositories
 
 # Images
 
+** Departments
+<img width="1915" height="930" alt="image" src="https://github.com/user-attachments/assets/708a1cea-9aad-4842-89e4-852a22196253" />
+<img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/5dff6950-b673-4d72-a7da-9bc15d2a7b74" />
+<img width="1912" height="906" alt="image" src="https://github.com/user-attachments/assets/6746ade8-bffc-47c3-bc70-4cbe44a39fa9" />
+<img width="1908" height="892" alt="image" src="https://github.com/user-attachments/assets/27ee1d20-3438-45c5-88b4-19c5f1284cf9" />
+<img width="1913" height="885" alt="image" src="https://github.com/user-attachments/assets/6968db3a-d597-4aad-9e27-7113833a78ac" />
+<img width="1908" height="865" alt="image" src="https://github.com/user-attachments/assets/ed4a0781-365f-4b7b-9ae4-69519508f41e" />
+
+** Employee
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/0b1965ac-576a-4309-956c-eb21fd4314d5" />
+<img width="1916" height="888" alt="image" src="https://github.com/user-attachments/assets/940bdef0-58b5-4f18-b70f-c1bdec84d420" />
+<img width="1905" height="897" alt="image" src="https://github.com/user-attachments/assets/8a9148c3-21d4-4844-9fa8-0ce2bc72dbc4" />
+<img width="1892" height="907" alt="image" src="https://github.com/user-attachments/assets/bee5beff-e172-4d62-8212-b7bca955ee6e" />
+<img width="1911" height="903" alt="image" src="https://github.com/user-attachments/assets/31a9be72-a423-46cb-9075-ab5dfe04db45" />
+<img width="1910" height="922" alt="image" src="https://github.com/user-attachments/assets/5a993393-da69-4d69-b6c6-9f8a8c06f2fb" />
+<img width="1917" height="888" alt="image" src="https://github.com/user-attachments/assets/39a7ed0a-2800-4fbb-8a54-372287dcaf69" />
+
+
+
+
+
+
+
+
+
+
+
 
 
