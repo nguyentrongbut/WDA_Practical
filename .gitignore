@@ -1,0 +1,84 @@
+## Visual Studio / Rider / .NET ignores
+
+# Build Folders
+bin/
+obj/
+out/
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code files
+.vscode/
+
+# Visual Studio temporary files
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+
+# Rider caches
+*.iws
+*.iml
+*.ipr
+.idea/
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Dotnet publish output
+publish/
+
+# Dotnet generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Resharper / JetBrains
+_ReSharper*/
+*.DotSettings.user
+*.DotSettings
+
+# Entity Framework / database files
+*.db
+*.mdf
+*.ldf
+*.sqlite
+
+# Others
+*.DS_Store
+*.class
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# ASP.NET Core specific
+wwwroot/lib/
+appsettings*.json
+!appsettings.Development.json  # optional: track development settings if safe
+
+# Dotnet tool manifest
+.dotnet/
+
+# Rider cache folders
+.idea/.idea/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/.name
+.idea/.rider/
+
+# User secrets
+secrets.json
