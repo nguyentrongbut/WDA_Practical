@@ -10,11 +10,8 @@ It allows you to manage **Departments** and **Employees**, including create, rea
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Database Setup](#database-setup)
-- [Running the Application](#running-the-application)
-- [Default Routes](#default-routes)
-- [Closing Bash or Terminal](#closing-bash-or-terminal)
-- [License](#license)
+- [Project Structure](#projectstructure)
+- [Images](#images)
 
 ---
 
@@ -47,3 +44,45 @@ It allows you to manage **Departments** and **Employees**, including create, rea
 ```bash
 git clone https://github.com/nguyentrongbut/WDA_Practical
 cd HR_Manage
+```
+
+2. Restore dependencies
+```bash
+dotnet restore
+```
+
+3. Build the project
+```bash
+dotnet build
+```
+
+4. Run the project
+```bash
+dotnet run
+```
+
+By default, the app runs at:
+```bash
+http://localhost:5212/
+```
+
+# ProjectStructure
+```bash
+HR.Manage/            # Web project (Controllers, Views)
+├─ Controllers/
+│   ├─ DepartmentController.cs
+│   └─ EmployeeController.cs
+├─ Views/
+│   ├─ Department/
+│   └─ Employee/
+├─ wwwroot/            # CSS, JS, Bootstrap, Icons
+HR.Domain/             # Entity classes
+HR.Application/        # Interfaces, DTOs
+HR.Infrastructure/     # DbContext, Repositories
+
+```
+
+# Images
+
+
+
